@@ -96,4 +96,7 @@ Feel free to contribute by creating issues or submitting pull requests to improv
 This project is licensed under the MIT License.
 
 ## Snapshots:
+![detection1screen_page-0001](https://github.com/user-attachments/assets/f45bdef9-0498-40fc-a2e6-399b04d95a2d)
+![detection_page-0001](https://github.com/user-attachments/assets/1db9250e-b28c-4c08-8395-ce65545b3975)
+![detection_page-0002](https://github.com/user-attachments/assets/03d87de0-0a73-4478-a821-df0de88239bd)
 ![monitoring_page-0001](https://github.com/user-attachments/assets/85ab87a6-e36d-41fe-b372-59ca3250e2d9)
